@@ -1,4 +1,1 @@
-Hey!! This is RezyTheDev.
-I am Developer.
-You can reach to me via : Twitting me on ( @TheRezy07).
-I am Learning Web Development and I am new to this field :D
+This is Rezy's GitHub Profile, and this is bit of copy about me. I am Beginner Developer and for now I am working on my Own Website. I am also Looking for some Professional Developers so that I will be Better in this field and much more!
